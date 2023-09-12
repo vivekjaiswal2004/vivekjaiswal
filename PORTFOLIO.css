@@ -204,3 +204,6 @@ hr{
 h2{
    color: green;
 }
+a:hover{
+  color: red;
+}
